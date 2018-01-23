@@ -1,0 +1,8 @@
+project_token: 3a3f5faa939f94d1ace9f057
+name: saul-weather-predictor
+language: python
+entrypoint: main.py
+resources:
+  limits:
+    cpu: 6
+    memory: 2Gi
